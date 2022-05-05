@@ -1,10 +1,10 @@
 👋 Hi, I’m Leandro Marelli
 
-👀 I’m interested in Frontend proyects
+👀 I’m interested in Frontend development
 
-🌱 I’m currently learning React and Angular
+🌱 I’m currently learning React and Angular and other technologies
 
-💞️ I’m looking to work abroad. Working group or remote
+💞️ I’m looking to work abroad. Working group or remote.
 
 📫 How to reach me: marellilean@gmail.com or https://www.linkedin.com/in/leandromarelli/
 
