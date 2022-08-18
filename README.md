@@ -1,15 +1,19 @@
-👋 Hi, I’m Leandro Marelli
+# 👋 Hello, I’m Leandro Marelli
 
-👀 I’m interested in Frontend development
+> Working in NTT Data Argentina 
 
-🌱 I’m currently learning React and Angular and other technologies
+👀 Interested in Frontend development and Digital Design.
 
-💞️ I’m looking to work abroad. Working group or remote.
+🌱 Currently learning React, Angular and other technologies.
+
+💞️ Looking to work abroad. Working remote or on site. Always looking for new challenges.
 
 📫 How to reach me: marellilean@gmail.com or https://www.linkedin.com/in/leandromarelli/
 
 
 ✨ Thanks for coming here ✨
+
+
 <!---
 leanmarelli/leanmarelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
