@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Leandro Marelli
+# 👋 Hello, I’m Leandro Marelli from Buenos Aires, Argentina
 
 > Working in NTT Data Argentina 
 
