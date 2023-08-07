@@ -6,9 +6,7 @@
 
 🌱 Currently learning Angular, Typescript and other libraries and frameworks.
 
-💞️ Looking forward to work abroad. Working remote or on site. 
-
-Always looking for new challenges.
+💞️ Looking forward to work abroad. Working remote or on site. Always looking for new challenges.
 
 📫 Gmail: marellilean@gmail.com or LinkedIn: https://www.linkedin.com/in/leandromarelli/
 
