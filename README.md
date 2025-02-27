@@ -26,8 +26,6 @@ Frontend Developer de Buenos Aires, Argentina, con experiencia en Angular y dise
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
   
-  ### Herramientas
-  
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
   ![Dynatrace](https://img.shields.io/badge/-Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
