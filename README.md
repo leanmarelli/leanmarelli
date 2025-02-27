@@ -86,12 +86,6 @@ Frontend Developer apasionado de Buenos Aires, Argentina, con experiencia en Ang
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanmarelli&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?username=leanmarelli&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</div>
-
 ## 📫 Conéctate Conmigo
 
 <div align="center">
