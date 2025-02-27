@@ -2,10 +2,10 @@
 
 ### Frontend Developer de Buenos Aires, Argentina
 
-💼 Trabajando en NTT Data Argentina desde 2021
-👀 Especializado en Desarrollo Frontend y Diseño Digital
-🌱 Especializado en Angular, TypeScript
-💞️ Buscando oportunidades remotas y nuevos desafíos
+-💼 Trabajando en NTT Data Argentina desde 2021
+-👀 Especializado en Desarrollo Frontend y Diseño Digital
+-🌱 Especializado en Angular, TypeScript
+-💞️ Buscando oportunidades remotas y nuevos desafíos
 
 ## 🛠️ Tecnologías y Herramientas
 - HTML5, CSS3 y JavaScript
