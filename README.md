@@ -16,7 +16,7 @@ Frontend Developer de Buenos Aires, Argentina, con experiencia en Angular y dise
 ## 🛠️ Tech Stack
 
 <div>
-  ### Tecnologias
+  ### Herramientas
   
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -99,11 +99,11 @@ Frontend Developer de Buenos Aires, Argentina, con experiencia en Angular y dise
 
 ---
 
-<div>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=leanmarelli&color=blue&style=flat-square&label=Visitas+al+Perfil" alt="Visitas al Perfil" />
 </div>
 
-<div>
+<div align="center">
   
   ✨ ¡Gracias por visitar mi perfil! ✨
   
