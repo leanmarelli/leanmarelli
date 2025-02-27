@@ -13,6 +13,9 @@
 - Conocimiento en React, Node.js, Java.
 - Uso de herramientas como Figma, Adobe XD, Dynatrace, MongoDB, Postman.
 
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
 ## 🚀 Proyectos Destacados
 - [WEBAPP • Mi Movistar](https://app.movistar.com.ar/home) - !! Al ingresar presionar f5
 - [Edesur Oficina Virtual](https://ov.edesur.com.ar/login)
