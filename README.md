@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre Mí
 
-Frontend Developer apasionado de Buenos Aires, Argentina, con experiencia en Angular y diseño digital. Actualmente trabajando en NTT Data Argentina desde 2021, donde desarrollo soluciones web innovadoras y atractivas para clientes importantes.
+Frontend Developer de Buenos Aires, Argentina, con experiencia en Angular y diseño digital. Actualmente trabajando en NTT Data Argentina desde 2021, donde desarrollo soluciones web innovadoras y atractivas para clientes importantes.
 
 - 💼 **Trabajando en:** NTT Data Argentina (2021 - Presente)
 - 🔭 **Especializado en:** Desarrollo Frontend y Diseño Digital
