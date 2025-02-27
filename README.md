@@ -39,7 +39,7 @@ Frontend Developer apasionado de Buenos Aires, Argentina, con experiencia en Ang
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">WEBAPP • Mi Movistar</h3>
       <div align="center">
         <a href="https://app.movistar.com.ar/home" target="_blank">
@@ -47,13 +47,13 @@ Frontend Developer apasionado de Buenos Aires, Argentina, con experiencia en Ang
         </a>
         <p>
           <a href="https://app.movistar.com.ar/home" target="_blank">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRlYmMzMDMzMTgwMDlhNTEwMDQ4ZmVlZDQwY2VmZGJmMmIzMTcwMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Desarrollo Frontend"/>
+            <img src="/api/placeholder/400/250" alt="Mi Movistar App" style="height: 250px; width: 100%; object-fit: cover; border-radius: 6px; border: 2px solid #00A9E0;"/>
           </a>
         </p>
-        <p><strong>Angular, TypeScript, HTML5, CSS3</strong> - Aplicación web para clientes de Movistar Argentina.</p>
+        <p><strong>Angular, TypeScript, HTML5, CSS3</strong> - Aplicación web para clientes de Movistar Argentina. Gestión de líneas, facturas y servicios en un solo lugar.</p>
       </div>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">Edesur Oficina Virtual</h3>
       <div align="center">
         <a href="https://ov.edesur.com.ar/login" target="_blank">
@@ -61,18 +61,38 @@ Frontend Developer apasionado de Buenos Aires, Argentina, con experiencia en Ang
         </a>
         <p>
           <a href="https://ov.edesur.com.ar/login" target="_blank">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJmMGNmM2Y5YmQ4MWMwOGQwOGYzZGMyODIyMTFhMTlkMWYwMjQ5OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Desarrollo Frontend"/>
+            <img src="/api/placeholder/400/250" alt="Edesur Oficina Virtual" style="height: 250px; width: 100%; object-fit: cover; border-radius: 6px; border: 2px solid #FFD100;"/>
           </a>
         </p>
-        <p><strong>Angular, TypeScript, HTML5, CSS3</strong> - Oficina virtual para usuarios de Edesur.</p>
+        <p><strong>Angular, TypeScript, HTML5, CSS3</strong> - Oficina virtual para usuarios de Edesur. Permite gestionar facturas, realizar pagos y reportar problemas en el servicio.</p>
       </div>
     </td>
   </tr>
 </table>
 
 ### Otros Proyectos
-- **Sistemas internos para el Gobierno de la Ciudad de Buenos Aires** - Desarrollo de soluciones digitales para optimizar procesos gubernamentales.
-- **Maquetado de Sistemas internos para Ternium e YPF** - Diseño y desarrollo de interfaces para mejorar la experiencia de usuario en aplicaciones corporativas.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Sistemas GCBA</h3>
+      <div align="center">
+        <p>
+          <img src="/api/placeholder/400/180" alt="Gobierno de Buenos Aires" style="height: 180px; width: 100%; object-fit: cover; border-radius: 6px; border: 2px solid #F3B229;"/>
+        </p>
+        <p><strong>Angular, TypeScript</strong> - Desarrollo de soluciones digitales para optimizar procesos gubernamentales en el Gobierno de la Ciudad de Buenos Aires.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Sistemas Ternium/YPF</h3>
+      <div align="center">
+        <p>
+          <img src="/api/placeholder/400/180" alt="Ternium e YPF" style="height: 180px; width: 100%; object-fit: cover; border-radius: 6px; border: 2px solid #009EE0;"/>
+        </p>
+        <p><strong>Angular, TypeScript, UI/UX</strong> - Diseño y desarrollo de interfaces para mejorar la experiencia de usuario en aplicaciones corporativas de Ternium e YPF.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 📊 Estadísticas GitHub
 
