@@ -15,8 +15,7 @@ Frontend Developer de Buenos Aires, Argentina, con experiencia en Angular y dise
 
 ## 🛠️ Tech Stack
 
-<div>
-  ### Herramientas
+<div align="center">
   
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -83,13 +82,13 @@ Frontend Developer de Buenos Aires, Argentina, con experiencia en Angular y dise
 
 ## 📊 Estadísticas GitHub
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanmarelli&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ## 📫 Conéctate Conmigo
 
-<div>
+<div align="center">
   
   [![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.leandro-marelli.com)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandromarelli/)
