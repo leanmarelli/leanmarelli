@@ -47,12 +47,7 @@ Frontend Developer apasionado de Buenos Aires, Argentina, con experiencia en Ang
         <a href="https://app.movistar.com.ar/home" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Demo-00A9E0?style=for-the-badge&logo=movistar&logoColor=white" alt="Demo"/>
         </a>
-        <p>
-          <a href="https://app.movistar.com.ar/home" target="_blank">
-            <img src="/api/placeholder/400/250" alt="Mi Movistar App" style="height: 250px; width: 100%; object-fit: cover; border-radius: 6px; border: 2px solid #00A9E0;"/>
-          </a>
-        </p>
-        <p><strong>Angular, TypeScript, HTML5, CSS3</strong> - Aplicación web para clientes de Movistar Argentina. Gestión de líneas, facturas y servicios en un solo lugar.</p>
+        <p><strong>React, TypeScript, HTML5, CSS3</strong> - Aplicación web para clientes de Movistar Argentina. Gestión de líneas, facturas y servicios en un solo lugar.</p>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -61,11 +56,6 @@ Frontend Developer apasionado de Buenos Aires, Argentina, con experiencia en Ang
         <a href="https://ov.edesur.com.ar/login" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Demo-FFD100?style=for-the-badge&logo=power&logoColor=black" alt="Demo"/>
         </a>
-        <p>
-          <a href="https://ov.edesur.com.ar/login" target="_blank">
-            <img src="/api/placeholder/400/250" alt="Edesur Oficina Virtual" style="height: 250px; width: 100%; object-fit: cover; border-radius: 6px; border: 2px solid #FFD100;"/>
-          </a>
-        </p>
         <p><strong>Angular, TypeScript, HTML5, CSS3</strong> - Oficina virtual para usuarios de Edesur. Permite gestionar facturas, realizar pagos y reportar problemas en el servicio.</p>
       </div>
     </td>
@@ -78,18 +68,12 @@ Frontend Developer apasionado de Buenos Aires, Argentina, con experiencia en Ang
     <td width="50%" valign="top">
       <h3 align="center">Sistemas GCBA</h3>
       <div align="center">
-        <p>
-          <img src="/api/placeholder/400/180" alt="Gobierno de Buenos Aires" style="height: 180px; width: 100%; object-fit: cover; border-radius: 6px; border: 2px solid #F3B229;"/>
-        </p>
         <p><strong>Angular, TypeScript</strong> - Desarrollo de soluciones digitales para optimizar procesos gubernamentales en el Gobierno de la Ciudad de Buenos Aires.</p>
       </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Sistemas Ternium/YPF</h3>
       <div align="center">
-        <p>
-          <img src="/api/placeholder/400/180" alt="Ternium e YPF" style="height: 180px; width: 100%; object-fit: cover; border-radius: 6px; border: 2px solid #009EE0;"/>
-        </p>
         <p><strong>Angular, TypeScript, UI/UX</strong> - Diseño y desarrollo de interfaces para mejorar la experiencia de usuario en aplicaciones corporativas de Ternium e YPF.</p>
       </div>
     </td>
@@ -104,7 +88,7 @@ Frontend Developer apasionado de Buenos Aires, Argentina, con experiencia en Ang
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=leanmarelli&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?username=leanmarelli&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </div>
 
