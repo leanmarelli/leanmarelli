@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hola, soy Leandro Marelli 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Hola,+soy+Leandro+Marelli" alt="Typing SVG" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Frontend+Developer;Angular+Specialist;Software+Developer+Semi+Senior" alt="Typing SVG" />
 </div>
 
