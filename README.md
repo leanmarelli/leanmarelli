@@ -1,17 +1,34 @@
-# 👋 Hello, I’m Leandro Marelli from Buenos Aires, Argentina
+# 👋 Hola, soy Leandro Marelli
 
-> Working in NTT Data Argentina 
+### Frontend Developer de Buenos Aires, Argentina
 
-👀 Interested in Frontend development and Digital Design.
+- 💼 Trabajando en NTT Data Argentina desde 2021
+- 👀 Especializado en Desarrollo Frontend y Diseño Digital
+- 🌱 Especializado en Angular, TypeScript
+- 💞️ Buscando oportunidades remotas y nuevos desafíos
 
-🌱 Currently learning Angular, Typescript and other libraries and frameworks.
+## 🛠️ Tecnologías y Herramientas
+- HTML5, CSS3 y JavaScript
+- Angular 17 con TypeScript
+- Conocimiento en React, Node.js, Java.
+- Uso de herramientas como Figma, Adobe XD, Dynatrace, MongoDB, Postman.
 
-💞️ Looking forward to working remote. Always looking for new challenges.
+## 🚀 Proyectos Destacados
+- [WEBAPP • Mi Movistar](https://app.movistar.com.ar/home)
+- [Edesur Oficina Virtual](https://ov.edesur.com.ar/login)
+- Sistemas internos para el Gobierno de la Ciudad de Buenos aires.
+- Maquetado de Sistemas internos para Ternium e YPF.
 
-📫 Gmail: marellilean@gmail.com or LinkedIn: https://www.linkedin.com/in/leandromarelli/
 
+## 📊 Estadísticas GitHub
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-✨ Thanks for watching ✨
+## 📫 Contacto
+- Pagina web: https://www.leandro-marelli.com
+- Gmail: marellilean@gmail.com
+- LinkedIn: [Leandro Marelli](https://www.linkedin.com/in/leandromarelli/)
+
+✨ ¡Gracias por visitar mi perfil! ✨
 
 
 <!---
