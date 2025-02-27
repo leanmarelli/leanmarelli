@@ -10,7 +10,7 @@ Frontend Developer apasionado de Buenos Aires, Argentina, con experiencia en Ang
 
 - 💼 **Trabajando en:** NTT Data Argentina (2021 - Presente)
 - 🔭 **Especializado en:** Desarrollo Frontend y Diseño Digital
-- 🚀 **Tecnologías principales:** Angular 17, TypeScript
+- 🚀 **Tecnologías principales:** Angular 17 con TypeScript
 - 🌱 **Buscando:** Oportunidades remotas y nuevos desafíos
 
 ## 🛠️ Tech Stack
@@ -33,6 +33,8 @@ Frontend Developer apasionado de Buenos Aires, Argentina, con experiencia en Ang
   ![Dynatrace](https://img.shields.io/badge/-Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 </div>
 
 ## 🚀 Proyectos Destacados
@@ -101,7 +103,9 @@ Frontend Developer apasionado de Buenos Aires, Argentina, con experiencia en Ang
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leanmarelli&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=leanmarelli&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </div>
 
 ## 📫 Conéctate Conmigo
