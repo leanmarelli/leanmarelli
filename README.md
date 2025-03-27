@@ -42,8 +42,8 @@ Frontend Developer de Buenos Aires, Argentina, con experiencia en Angular y dise
     <td width="50%" valign="top">
       <h3 align="center">WEBAPP • Mi Movistar</h3>
       <div align="center">
-        <a href="https://app.movistar.com.ar/home" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Demo-00A9E0?style=for-the-badge&logo=movistar&logoColor=white" alt="Demo"/>
+        <a href="https://app.movistar.com.ar/home" rel="noreferrer" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Demo-00A9E0?style=for-the-badge&logo=movistar&logoColor=white" alt="Movistar"/>
         </a>
         <p><strong>React, TypeScript, HTML5, CSS3</strong> - Aplicación web para clientes de Movistar Argentina. Gestión de líneas, facturas y servicios en un solo lugar.</p>
       </div>
@@ -52,7 +52,7 @@ Frontend Developer de Buenos Aires, Argentina, con experiencia en Angular y dise
       <h3 align="center">Edesur Oficina Virtual</h3>
       <div align="center">
         <a href="https://ov.edesur.com.ar/login" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Demo-FFD100?style=for-the-badge&logo=power&logoColor=black" alt="Demo"/>
+          <img src="https://img.shields.io/badge/Ver%20Demo-FFD100?style=for-the-badge&logo=power&logoColor=black" alt="Edesur"/>
         </a>
         <p><strong>Angular, TypeScript, HTML5, CSS3</strong> - Oficina virtual para usuarios de Edesur. Permite gestionar facturas, realizar pagos y reportar problemas en el servicio.</p>
       </div>
